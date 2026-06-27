@@ -1,6 +1,6 @@
-#California Housing Data Exploration
+# California Housing Data Exploration
 
-Project Overview
+## Project Overview
 
 This project performs exploratory data analysis (EDA) on the California Housing dataset using Python.
 
@@ -19,7 +19,7 @@ The goal is to better understand the factors that influence California housing p
 
 ⸻
 
-Dataset
+## Dataset
 
 Dataset used:
 
@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/ageron/handson-ml2/master/datasets/housing/hou
 
 ⸻
 
-Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -42,7 +42,7 @@ Technologies Used
 
 ⸻
 
-Visualizations
+## Visualizations
 
 The notebook includes:
 
@@ -55,7 +55,7 @@ The notebook includes:
 
 ⸻
 
-Key Findings
+## Key Findings
 
 * Median income has the strongest positive correlation with housing prices.
 * Total rooms and population show weaker relationships.
